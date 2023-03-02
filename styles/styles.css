@@ -1,0 +1,49 @@
+/* font-family: 'Nunito Sans', sans-serif; */
+
+/*
+body {
+    background-image: url('../images/geoff-skate.jpeg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+*/
+
+body {
+    background-color: RGB(45, 44, 42);
+}
+
+#geoff-image {
+    width: 80%;
+    min-width: 200px;
+    border: 2px solid RGB(251, 245, 245);
+}
+
+.geoff-window {
+    margin: 70px;
+}
+
+.geoff-display {
+    font-family: 'Halant', serif;
+    font-weight: 600;
+    font-size: 3.5em;
+    color: RGB(251, 245, 245);
+}
+
+.geoff-paragraph {
+    font-family: 'Nunito Sans', sans-serif;
+    color: RGB(251, 245, 245);
+}
+
+.geoff-nav-link {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1em;
+    color: RGB(251, 245, 245);
+    text-decoration: none;
+}
+
+.geoff-nav-link:hover {
+    color: RGB(251, 245, 245);
+    text-decoration: underline;
+}
