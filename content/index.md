@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Hey 👋
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to my [Digital Garden](https://jzhao.xyz/posts/networked-thought) 🪴. This is my space on the Internet. I write my thoughts here sometimes.
+
+## Navigation
+
+- [[./about.md|About Me]]
