@@ -3,11 +3,11 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 yeoff.ca",
+    pageTitle: "💡 yeoff.ca",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "plausible", 
     },
     locale: "en-US",
     baseUrl: "yeoff.ca",
