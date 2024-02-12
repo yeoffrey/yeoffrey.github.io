@@ -1,7 +1,7 @@
-import catppuccin from "./catppuccin"
 import quartz from "./quartz"
+import latte from "./catppuccin"
 
 export default {
-  catppuccin: catppuccin,
   quartz: quartz,
+  latte: latte,
 }
